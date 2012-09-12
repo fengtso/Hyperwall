@@ -1,0 +1,8 @@
+﻿<Window x:Class="HandTracker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="1123" Width="1593" Closed="Window_Closed" Loaded="Window_Loaded">
+    <Grid Height="1017" Width="1490">
+        <Image Height="960" HorizontalAlignment="Left" Margin="110,12,0,0" Name="TestImage" Stretch="Fill" VerticalAlignment="Top" Width="1280" />
+    </Grid>
+</Window>

@@ -1,0 +1,25 @@
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\bin\Debug\HandTracker.exe
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\bin\Debug\HandTracker.pdb
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\obj\x86\Debug\MainWindow.baml
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\obj\x86\Debug\App.g.cs
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\obj\x86\Debug\HandTracker_MarkupCompile.cache
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\obj\x86\Debug\HandTracker.g.resources
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\obj\x86\Debug\HandTracker.Properties.Resources.resources
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\obj\x86\Debug\HandTracker.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\obj\x86\Debug\HandTracker.exe
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\obj\x86\Debug\HandTracker.pdb
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\HandTracker\HandTracker\obj\x86\Debug\HandTracker.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\obj\x86\Debug\HandTracker.exe
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\obj\x86\Debug\HandTracker.pdb
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\obj\x86\Debug\MainWindow.baml
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\obj\x86\Debug\App.g.cs
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\obj\x86\Debug\HandTracker_MarkupCompile.cache
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\obj\x86\Debug\HandTracker.g.resources
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\obj\x86\Debug\HandTracker.Properties.Resources.resources
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\bin\Debug\HandTracker.exe
+C:\Users\Lucas Sun\Dropbox\HandTracker\HandTracker\bin\Debug\HandTracker.pdb
